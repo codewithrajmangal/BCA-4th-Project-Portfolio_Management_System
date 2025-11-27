@@ -20,8 +20,9 @@ The **Portfolio Management System** is a web-based application developed as a **
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/portfolio-management-system.git
-   cd portfolio-management-system
+ git clone https://github.com/rajmangalbaitha/portfolio-management-system.git
+cd portfolio-management-system
+
 Install dependencies:
 
 bash
